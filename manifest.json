@@ -1,0 +1,25 @@
+{
+  "name": "GridZen",
+  "short_name": "GridZen",
+  "description": "Block puzzle game. Place blocks, clear lines, find your zen.",
+  "start_url": "/gridzen-app/gridzen-FINAL.html",
+  "scope": "/gridzen-app/",
+  "display": "standalone",
+  "background_color": "#08081a",
+  "theme_color": "#08081a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/riteshkadtan007-oss/gridzen-app/main/icon-192.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/riteshkadtan007-oss/gridzen-app/main/icon-512.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
